@@ -48,14 +48,6 @@ The 32-bit version is also available and can run on most 64-bit Windows systems 
 
 ---
 
-## Screenshot
-
-Add a screenshot of the application here.
-
-```markdown
-![NX Seed Finder and Extractor](images/screenshot.png)
-```
-
 Suggested screenshots:
 
 * Main window
