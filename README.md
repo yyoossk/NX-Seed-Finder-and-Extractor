@@ -1,5 +1,6 @@
 # NX-Seed-Finder-and-Extractor
-https://raw.githubusercontent.com/yyoossk/NX-Seed-Finder-and-Extractor/refs/heads/main/screen.bmp
+[https://raw.githubusercontent.com/yyoossk/NX-Seed-Finder-and-Extractor/refs/heads/main/screen.bmp](https://github.com/user-attachments/files/31693070/screen.bmp)
+
 A Windows utility for detecting MArchive seeds from `main_uncompressed` files and extracting `alldata.psb.m` / `alldata.bin` using `MArchiveBatchTool.exe`.
 
 NX Seed Finder and Extractor is designed for supported NS titles that use MArchive-based data.
