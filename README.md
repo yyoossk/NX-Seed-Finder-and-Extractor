@@ -32,8 +32,8 @@ It can automatically analyze `main_uncompressed`, detect the seed when possible,
 ---
 
 ## Downloads
+https://github.com/yyoossk/NX-Seed-Finder-and-Extractor/releases
 
-Download the latest release from the GitHub **Releases** page.
 
 Recommended files:
 
@@ -45,17 +45,6 @@ Recommended files:
 For most modern Windows PCs, use the **64-bit version**.
 
 The 32-bit version is also available and can run on most 64-bit Windows systems through WOW64.
-
----
-
-Suggested screenshots:
-
-* Main window
-* Seed detection result
-* No Seed result
-* Extraction in progress
-* Real-time log output
-* Language selection menu
 
 ---
 
