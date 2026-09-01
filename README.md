@@ -2,7 +2,7 @@
 
 A Windows utility for detecting MArchive seeds from `main_uncompressed` files and extracting `alldata.psb.m` / `alldata.bin` using `MArchiveBatchTool.exe`.
 
-NX Seed Finder and Extractor is designed for supported Nintendo Switch titles that use MArchive-based data.
+NX Seed Finder and Extractor is designed for supported NS titles that use MArchive-based data.
 
 It can automatically analyze `main_uncompressed`, detect the seed when possible, and assist with archive extraction through a simple graphical interface.
 
